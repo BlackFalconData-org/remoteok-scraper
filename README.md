@@ -2,11 +2,12 @@
 
 Scrape RemoteOK — the world's largest remote job board. Filter by skill, location restriction, or company. Includes salary range, full description, and direct apply URL.
 
-**[RemoteOK Scraper on Apify →](https://apify.com/blackfalcondata/remoteok-scraper)**
+**[RemoteOK Scraper - Remote Job Listings on Apify →](https://apify.com/blackfalcondata/remoteok-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -20,11 +21,12 @@ Scrape RemoteOK — the world's largest remote job board. Filter by skill, locat
 
 
 
+
 **Data pipeline automation**
-Integrate with your ETL pipeline to collect structured listings from the source on a schedule. Export to CSV, JSON, or directly to your database. Use compact mode to control output size.
+Integrate with your ETL pipeline to collect structured listings from remoteok.com on a schedule. Export to CSV, JSON, or directly to your database. Use compact mode to control output size.
 
 **Market research**
-Monitor listings, track trends, and analyze market dynamics with structured, deduplicated data from the source.
+Monitor listings, track trends, and analyze market dynamics with structured, deduplicated data from remoteok.com.
 
 ---
 
@@ -71,6 +73,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
